@@ -7,8 +7,8 @@ title: वोर्द्लेस्स्
 subtitle: 但有言說 恐無實義
 author: 謝阿伯
 simple_search: https://www.google.com/search
-description: 精簡。學習。實作。歐吉桑
-
+description:
+#精簡。學習。實作。歐吉桑
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
 # http://www.ruby-doc.org/core-1.9.2/Time.html#method-i-strftime
